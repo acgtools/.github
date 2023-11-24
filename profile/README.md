@@ -2,10 +2,10 @@
 Create some apps to improve ACG experience.
 
 <!-- 
-  If you want use your Own Moe-Counter
-  Please refer to the tutorial 
+  If you prefer to use your own Moe-Counter
+  please refer to the tutorial 
   in its original repo: https://github.com/journey-ad/Moe-Counter
-  And deploy to the replit or glitch
+  and deploy it to the Replit or Glitch
 -->
 ![](https://political-capable-roll.glitch.me/get/@acgtoolsprofile?theme=rule34)
 
