@@ -12,7 +12,7 @@ Apps to improve your ACG(Anime, Comics, and Games) experience OvO
 ![](https://political-capable-roll.glitch.me/get/@acgtoolsprofile?theme=rule34)
 
 ### Random Wifu / 随机 Wifu
-![](https://waifu.vercel.app/sfw/random)
+![](https://waifu.now.sh/sfw/random)
 
 ### Anime
 - [sub-renamer](https://github.com/acgtools/sub-renamer):   
