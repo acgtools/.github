@@ -1,5 +1,7 @@
 # ACG Tools
-Apps to improve your ACG(Animation, Comics, and Games) experience. OvO
+Apps to improve your ACG(Anime, Comics, and Games) experience OvO
+
+提升你的 ACG 体验 OvO
 
 <!-- 
   If you prefer to use your own Moe-Counter
