@@ -12,6 +12,7 @@ Apps to improve your ACG(Anime, Comics, and Games) experience OvO
 ![](https://political-capable-roll.glitch.me/get/@acgtoolsprofile?theme=rule34)
 
 ### Random Waifu / 随机老婆
+<!-- If you want to deploy your own service for random waifu. Check: https://github.com/dreamjz/waifu-getter -->
 <img src="https://waifu-getter.vercel.app/sfw/random?ignore=waifu,neko,shinobu,megumin,kill" />
 
 ### Repos
